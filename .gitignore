@@ -1,0 +1,7 @@
+/.idea
+target\*
+\target
+target/classes/xyz/yarinlevi/thedestroyer/Main.class
+target/classes/xyz/yarinlevi/thedestroyer/listeners/MessageListener.class
+target/classes/xyz/yarinlevi/thedestroyer/helpers/PermissionHandler.class
+target/classes/xyz/yarinlevi/thedestroyer/Main.class
