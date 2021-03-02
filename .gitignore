@@ -5,3 +5,6 @@ target/classes/xyz/yarinlevi/thedestroyer/Main.class
 target/classes/xyz/yarinlevi/thedestroyer/listeners/MessageListener.class
 target/classes/xyz/yarinlevi/thedestroyer/helpers/PermissionHandler.class
 target/classes/xyz/yarinlevi/thedestroyer/Main.class
+config.yml
+config.yml
+src/main/resources/config.yml
